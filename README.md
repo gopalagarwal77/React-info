@@ -1,5 +1,5 @@
 # React-info
-
+```
 /*const heading = React.createElement(
     "h1", 
     {id:"heading" , xyz:"abc" }, 
@@ -31,5 +31,5 @@ console.log(parent);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent);// renders the heading in the div with id as 'root
-
+```
 // job of the render is to take the object and convert it into h1 tag and  put inside the div with id 'root'
